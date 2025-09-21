@@ -1,0 +1,9 @@
+{
+  "HomePage": {
+    "title": "Hello world!"
+  },
+  "Fetching": {
+    "errorFetchingSites": "Error fetching sites",
+    "unknownError": "Unknown error"
+  }
+}

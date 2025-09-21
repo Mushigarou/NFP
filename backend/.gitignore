@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+htmlcov/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+.flaskenv
+
+# SQLAlchemy/Alembic specific
+alembic/versions/*.pyc
+alembic.ini.bak
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# FastAPI specific
+# If you are using a database, you might want to ignore the database file
+# For example, if using SQLite:
+# instance/
+# *.sqlite
+# *.db
+
+# Logs
+*.log
