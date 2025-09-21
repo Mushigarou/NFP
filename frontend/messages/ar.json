@@ -1,0 +1,9 @@
+{
+  "HomePage": {
+    "title": "مرحبا بالعالم!"
+  },
+  "Fetching": {
+    "errorFetchingSites": "خطأ في جلب المواقع",
+    "unknownError": "خطأ غير معروف"
+  }
+}
